@@ -12,7 +12,6 @@ Welcome to the Algorithms repository! This repository contains implementations o
   - [Dynamic Programming](#dynamic-programming)
   - [Others](#others)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
